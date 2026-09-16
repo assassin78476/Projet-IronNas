@@ -48,19 +48,6 @@ L'ensemble des services additionnels est déployé via conteneurs Docker :
 
 ---
 
-## 📂 Organisation du Dépôt
-
-```text
-├── docs/                # Spécifications, schémas d'architecture et procédures
-├── scripts/             # Scripts d'automatisation, configuration mdadm, crons
-├── docker/              # Fichiers docker-compose.yml par brique de service
-├── licensing/           # Conditions d'utilisation, TOS et textes de licences
-│   ├── LICENSE-CODE     # Licence MIT pour les scripts et configurations
-│   ├── LICENSE-DOCS     # Licence CC BY-NC-SA 4.0 pour la documentation
-│   ├── TERMS_OF_SERVICE.md
-│   └── CREDITS.md
-└── README.md
-
 # Licences applicables au projet IronNAS
 
 Ce projet applique une politique de double licence (**Dual-Licensing**) selon la nature des fichiers :
@@ -74,3 +61,17 @@ L'ensemble des documents textuels, fiches de spécifications, guides d'installat
 * Texte complet : [`licensing/LICENSE-DOCS.md`](./licensing/LICENSE-DOCS.md)
 
 Pour toute demande d'exploitation commerciale ou dérogation, contactez directement l'auteur.
+
+## 📂 Organisation du Dépôt
+
+```text
+├── docs/                # Spécifications, schémas d'architecture et procédures
+├── scripts/             # Scripts d'automatisation, configuration mdadm, crons
+├── docker/              # Fichiers docker-compose.yml par brique de service
+├── licensing/           # Conditions d'utilisation, TOS et textes de licences
+│   ├── LICENSE-CODE     # Licence MIT pour les scripts et configurations
+│   ├── LICENSE-DOCS     # Licence CC BY-NC-SA 4.0 pour la documentation
+│   ├── TERMS_OF_SERVICE.md
+│   └── CREDITS.md
+└── README.md
+
