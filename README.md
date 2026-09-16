@@ -60,6 +60,14 @@ L'ensemble des scripts shell, playbooks, automatisations et manifestes d'orchest
 L'ensemble des documents textuels, fiches de spécifications, guides d'installation et schémas d'architecture est distribué sous licence **Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)**.
 * Texte complet : [`licensing/LICENSE-DOCS.md`](./licensing/LICENSE-DOCS.md)
 
+---
+
+## ⚖️ Conditions d'utilisation
+
+L'utilisation, la redistribution et la modification de ce projet sont encadrées par des règles strictes concernant l'attribution, l'absence d'usage commercial non autorisé et l'interdiction de brevetabilité.
+
+👉 **Consultez l'intégralité des clauses dans le fichier [`TERMS.md`](./TERMS.md).**
+
 Pour toute demande d'exploitation commerciale ou dérogation, contactez directement l'auteur.
 
 ## 📂 Organisation du Dépôt
