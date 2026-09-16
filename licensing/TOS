@@ -1,0 +1,32 @@
+---
+
+### Fichier : `licensing/TERMS_OF_SERVICE.md` (TOS / Conditions d'utilisation)
+
+```markdown
+# Conditions d'Utilisation & Avertissements Légaux (TOS)
+
+Projet : **IronNAS**
+
+En accédant, utilisant ou copiant les fichiers de ce dépôt (documentation, schémas, scripts bash, configurations YAML), vous acceptez les clauses suivantes :
+
+---
+
+### 1. Conservation Obligatoire des Crédits
+Toute réutilisation, intégration, redistribution ou modification de ce dépôt (ou d'une partie substantielle de celui-ci) impose de mentionner explicitement le créateur d'origine et de conserver un lien visible vers le dépôt source. Les détails de citation figurent dans le fichier `licensing/CREDITS.md`.
+
+---
+
+### 2. Absence de Garantie & Clause de Non-Responsabilité (Disclaimer)
+Les scripts, configurations matérielles et schémas d'architecture fournis dans ce projet le sont « en l'état », sans garantie d'aucune sorte, expresse ou implicite. 
+
+L'auteur ne saurait être tenu pour responsable :
+* De toute perte de données partielle ou totale consécutive à l'exécution d'un script ou d'une commande système ;
+* De la panne ou dégradation prématurée de matériel informatique (disques durs, alimentations, ventilateurs) ;
+* Des éventuelles coupures de service ou compromissions de sécurité survenant sur des infrastructures déployées à partir de ce dépôt.
+
+Il incombe à l'utilisateur de tester systématiquement les scripts en environnement de pré-production ou de test avant déploiement.
+
+---
+
+### 3. Usage Éthique & Respect de la Propriété
+Il est strictement interdit d'utiliser les scripts, configurations ou briques logicielles décrits dans ce projet à des fins d'intrusion, de piratage, de déni de service ou d'activités contraires aux lois et réglementations en vigueur.
