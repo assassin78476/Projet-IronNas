@@ -60,3 +60,17 @@ L'ensemble des services additionnels est déployé via conteneurs Docker :
 │   ├── TERMS_OF_SERVICE.md
 │   └── CREDITS.md
 └── README.md
+
+# Licences applicables au projet IronNAS
+
+Ce projet applique une politique de double licence (**Dual-Licensing**) selon la nature des fichiers :
+
+### 1. Code source, Scripts & Configurations (`scripts/`, `docker/`)
+L'ensemble des scripts shell, playbooks, automatisations et manifestes d'orchestration est distribué sous licence **GNU Affero General Public License v3.0 (AGPLv3)**.
+* Texte complet : [`licensing/LICENSE-CODE.md`](./licensing/LICENSE-CODE.md)
+
+### 2. Documentation, Architecture & Schémas (`docs/`, `README.md`)
+L'ensemble des documents textuels, fiches de spécifications, guides d'installation et schémas d'architecture est distribué sous licence **Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)**.
+* Texte complet : [`licensing/LICENSE-DOCS.md`](./licensing/LICENSE-DOCS.md)
+
+Pour toute demande d'exploitation commerciale ou dérogation, contactez directement l'auteur.
